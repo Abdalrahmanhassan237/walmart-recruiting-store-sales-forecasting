@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project focuses on analyzing historical sales data from 45 Walmart stores located in various regions. The dataset contains weekly sales data, promotional markdowns, and macroeconomic indicators. 
 
-The primary goal of this project is to perform end-to-end data processing—starting from data cleaning in **Python**, moving towards building a Star Schema data model, and an interactive Business Intelligence dashboard using **Power BI**. This allows stakeholders to explore sales trends, evaluate promotional campaigns, and understand the impact of external factors on revenue.
+The primary goal of this project is to perform end-to-end data processing starting from data cleaning in **Python**, moving towards building a Star Schema data model, and an interactive Business Intelligence dashboard using **Power BI**. This allows stakeholders to explore sales trends, evaluate promotional campaigns, and understand the impact of external factors on revenue.
 
 ## 🛠️ Problem Statement & Analysis Type
 Retail datasets often suffer from missing values, hidden returns (negative sales), and complex promotional cycles. This project applies the following analytical approaches:
@@ -22,14 +22,3 @@ This project is designed to answer the following strategic business questions:
 
 ---
 *Note: Data cleaning and preparation were performed using Python (Pandas), and the cleaned master datasets have been exported for Data Modeling in Power BI.*
-# Walmart Sales Data Analysis & Dashboard
-
-## 📌 Project Overview
-This project looks at past sales data from 45 Walmart stores. The data includes weekly sales numbers, discount events, and general economic factors like fuel prices and unemployment.
-
-The main goal is to clean and organize this data using **Python**, and then connect it to **Power BI** to create a clear, easy-to-use dashboard. This dashboard helps business managers see sales trends, check if discounts are working, and understand how outside factors affect total revenue.
-
-
-
----
-*Note: All data cleaning and organizing was done using Python. The final, clean files were then loaded into Power BI to build the visual dashboard.*
