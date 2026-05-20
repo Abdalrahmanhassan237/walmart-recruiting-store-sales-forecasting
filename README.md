@@ -1,1 +1,35 @@
-# walmart-recruiting-store-sales-forecasting
+# Walmart Sales Data Analysis & Dashboard
+
+## 📌 Project Overview
+This project focuses on analyzing historical sales data from 45 Walmart stores located in various regions. The dataset contains weekly sales data, promotional markdowns, and macroeconomic indicators. 
+
+The primary goal of this project is to perform end-to-end data processing—starting from data cleaning in **Python**, moving towards building a Star Schema data model, and an interactive Business Intelligence dashboard using **Power BI**. This allows stakeholders to explore sales trends, evaluate promotional campaigns, and understand the impact of external factors on revenue.
+
+## 🛠️ Problem Statement & Analysis Type
+Retail datasets often suffer from missing values, hidden returns (negative sales), and complex promotional cycles. This project applies the following analytical approaches:
+* **Descriptive Analytics:** What were our historical sales? Identifying top-performing stores and departments.
+* **Diagnostic Analytics:** Why did sales spike or drop? Isolating the impact of holiday weeks and tracking the volume of product returns.
+* **Correlation Analysis (Macroeconomics):** How sensitive is our retail performance to external economic factors like fuel prices, unemployment, and inflation (CPI)?
+
+## 🎯 Questions to be Answered (Business Objectives)
+This project is designed to answer the following strategic business questions:
+
+1. **Performance & Space Efficiency:** Which stores and departments generate the highest revenue, and do larger stores (Type A) utilize their square footage more efficiently than smaller ones?
+2. **Seasonality & Holiday Impact:** What is the exact volume of incremental sales (Uplift) generated during major holiday weeks (Super Bowl, Labor Day, Thanksgiving, Christmas) compared to baseline weeks?
+3. **MarkDown ROI:** Do the promotional campaigns (MarkDowns 1-5) implemented after November 2011 significantly drive sales, and which specific markdown is most effective before the holidays?
+4. **Macroeconomic Sensitivity:** How do external factors such as the Consumer Price Index (CPI), Unemployment Rate, and Fuel Prices correlate with weekly store performance?
+5. **Returns Analysis (Hidden Losses):** Which departments suffer from the highest volume of negative sales (returns), and how does this impact the net revenue of the respective stores?
+
+---
+*Note: Data cleaning and preparation were performed using Python (Pandas), and the cleaned master datasets have been exported for Data Modeling in Power BI.*
+# Walmart Sales Data Analysis & Dashboard
+
+## 📌 Project Overview
+This project looks at past sales data from 45 Walmart stores. The data includes weekly sales numbers, discount events, and general economic factors like fuel prices and unemployment.
+
+The main goal is to clean and organize this data using **Python**, and then connect it to **Power BI** to create a clear, easy-to-use dashboard. This dashboard helps business managers see sales trends, check if discounts are working, and understand how outside factors affect total revenue.
+
+
+
+---
+*Note: All data cleaning and organizing was done using Python. The final, clean files were then loaded into Power BI to build the visual dashboard.*
