@@ -1,6 +1,7 @@
-# Walmart Sales Data Analysis & Dashboard
+ Walmart Sales Data Analysis & Dashboard
+<img width="6150" height="3525" alt="walmart-recruiting-store-sales-forecasting_page-0001" src="https://github.com/user-attachments/assets/1b2b2ef5-455c-4328-befa-8958026738dc" />
 
-**[🔗 Click Here to View the Interactive Power BI Dashboard][(https://app.powerbi.com/view?r=eyJrIjoiYmNmMDJkMDYtZGY5MS00MWZjLTg4Y2MtNWVlMDY1ZWU1NWViIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)]**
+**[🔗 Click Here to View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWFjMzFlNWYtYmY0MS00MDFhLTk3MmEtYjhhZGNlNzgyY2FjIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)**
 
 ## 📌 Project Overview
 This project focuses on analyzing historical sales data from 45 Walmart stores located in various regions. The dataset contains weekly sales data, promotional markdowns, and macroeconomic indicators. 
